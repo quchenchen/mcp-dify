@@ -26,6 +26,11 @@ Brief description of the project and its features.
 ## Dify Integration
 How does this project integrate with Dify? What APIs or protocols does it use?
 
+## Available Tools
+- `tool_name` - Brief description of the tool
+  - Required arguments:
+    - `argument_name` (type): Description of the argument
+
 ## Additional Information
 Any other relevant information about the project.
 ```

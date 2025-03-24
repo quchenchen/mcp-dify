@@ -21,28 +21,28 @@ This project aims to collect and index MCP services or applications compatible w
 
 ## Project Categories
 
-| Category | Description |
-|----------|-------------|
-| [Official Servers](./projects/official-servers/) | Official servers and APIs |
-| [Research And Data](./projects/research-and-data/) | Research and data analysis tools |
-| [Cloud Platforms](./projects/cloud-platforms/) | Cloud platforms and services |
-| [Browser Automation](./projects/browser-automation/) | Browser automation tools |
-| [Databases](./projects/databases/) | Database and storage solutions |
-| [AI Chatbot](./projects/ai-chatbot/) | AI chatbots and conversation systems |
-| [File Systems](./projects/file-systems/) | File systems and storage management |
-| [OS Automation](./projects/os-automation/) | Operating system automation tools |
-| [Finance](./projects/finance/) | Finance and payment related services |
-| [Communication](./projects/communication/) | Communication and messaging tools |
-| [Developer Tools](./projects/developer-tools/) | Developer tools and frameworks |
-| [Knowledge And Memory](./projects/knowledge-and-memory/) | Knowledge bases and memory systems |
-| [Entertainment And Media](./projects/entertainment-and-media/) | Entertainment and media services |
-| [Calendar Management](./projects/calendar-management/) | Calendar and time management |
-| [Location Services](./projects/location-services/) | Location services and geographic information |
-| [Customer Data Platforms](./projects/customer-data-platforms/) | Customer data platforms |
-| [Security](./projects/security/) | Security and privacy protection |
-| [Monitoring](./projects/monitoring/) | Monitoring and log analysis |
-| [Virtualization](./projects/virtualization/) | Virtualization and container technologies |
-| [Cloud Storage](./projects/cloud-storage/) | Cloud storage services |
+| Category | Description | Available Services |
+|----------|-------------|-------------------|
+| [Official Servers](./projects/official-servers/) | Official servers and APIs | - |
+| [Research And Data](./projects/research-and-data/) | Research and data analysis tools | - |
+| [Cloud Platforms](./projects/cloud-platforms/) | Cloud platforms and services | - |
+| [Browser Automation](./projects/browser-automation/) | Browser automation tools | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md) |
+| [Databases](./projects/databases/) | Database and storage solutions | - |
+| [AI Chatbot](./projects/ai-chatbot/) | AI chatbots and conversation systems | [MCP Sequential Thinking](./projects/ai-chatbot/mcp-sequential-thinking.md) |
+| [File Systems](./projects/file-systems/) | File systems and storage management | - |
+| [OS Automation](./projects/os-automation/) | Operating system automation tools | - |
+| [Finance](./projects/finance/) | Finance and payment related services | - |
+| [Communication](./projects/communication/) | Communication and messaging tools | - |
+| [Developer Tools](./projects/developer-tools/) | Developer tools and frameworks | [MCP Time Server](./projects/developer-tools/mcp-time-server.md) |
+| [Knowledge And Memory](./projects/knowledge-and-memory/) | Knowledge bases and memory systems | - |
+| [Entertainment And Media](./projects/entertainment-and-media/) | Entertainment and media services | - |
+| [Calendar Management](./projects/calendar-management/) | Calendar and time management | - |
+| [Location Services](./projects/location-services/) | Location services and geographic information | - |
+| [Customer Data Platforms](./projects/customer-data-platforms/) | Customer data platforms | - |
+| [Security](./projects/security/) | Security and privacy protection | - |
+| [Monitoring](./projects/monitoring/) | Monitoring and log analysis | - |
+| [Virtualization](./projects/virtualization/) | Virtualization and container technologies | - |
+| [Cloud Storage](./projects/cloud-storage/) | Cloud storage services | - |
 
 For a complete list of all categories and their descriptions, please see [Categories](./projects/categories.md).
 

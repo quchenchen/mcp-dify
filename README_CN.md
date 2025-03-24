@@ -21,28 +21,28 @@
 
 ## 项目分类
 
-| 分类 | 描述 |
-|----------|-------------|
-| [官方服务器](./projects/official-servers/) | 官方服务器和API |
-| [研究与数据](./projects/research-and-data/) | 研究和数据分析工具 |
-| [云平台](./projects/cloud-platforms/) | 云平台和服务 |
-| [浏览器自动化](./projects/browser-automation/) | 浏览器自动化工具 |
-| [数据库](./projects/databases/) | 数据库和存储解决方案 |
-| [AI聊天机器人](./projects/ai-chatbot/) | AI聊天机器人和对话系统 |
-| [文件系统](./projects/file-systems/) | 文件系统和存储管理 |
-| [操作系统自动化](./projects/os-automation/) | 操作系统自动化工具 |
-| [金融](./projects/finance/) | 金融和支付相关服务 |
-| [通信](./projects/communication/) | 通信和消息工具 |
-| [开发者工具](./projects/developer-tools/) | 开发者工具和框架 |
-| [知识与记忆](./projects/knowledge-and-memory/) | 知识库和记忆系统 |
-| [娱乐与媒体](./projects/entertainment-and-media/) | 娱乐和媒体服务 |
-| [日历管理](./projects/calendar-management/) | 日历和时间管理 |
-| [位置服务](./projects/location-services/) | 位置服务和地理信息 |
-| [客户数据平台](./projects/customer-data-platforms/) | 客户数据平台 |
-| [安全](./projects/security/) | 安全和隐私保护 |
-| [监控](./projects/monitoring/) | 监控和日志分析 |
-| [虚拟化](./projects/virtualization/) | 虚拟化和容器技术 |
-| [云存储](./projects/cloud-storage/) | 云存储服务 |
+| 分类 | 描述 | 可用服务 |
+|----------|-------------|-------------------|
+| [官方服务器](./projects/official-servers/) | 官方服务器和API | - |
+| [研究与数据](./projects/research-and-data/) | 研究和数据分析工具 | - |
+| [云平台](./projects/cloud-platforms/) | 云平台和服务 | - |
+| [浏览器自动化](./projects/browser-automation/) | 浏览器自动化工具 | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md) |
+| [数据库](./projects/databases/) | 数据库和存储解决方案 | - |
+| [AI聊天机器人](./projects/ai-chatbot/) | AI聊天机器人和对话系统 | [MCP Sequential Thinking](./projects/ai-chatbot/mcp-sequential-thinking.md) |
+| [文件系统](./projects/file-systems/) | 文件系统和存储管理 | - |
+| [操作系统自动化](./projects/os-automation/) | 操作系统自动化工具 | - |
+| [金融](./projects/finance/) | 金融和支付相关服务 | - |
+| [通信](./projects/communication/) | 通信和消息工具 | - |
+| [开发者工具](./projects/developer-tools/) | 开发者工具和框架 | [MCP Time Server](./projects/developer-tools/mcp-time-server.md) |
+| [知识与记忆](./projects/knowledge-and-memory/) | 知识库和记忆系统 | - |
+| [娱乐与媒体](./projects/entertainment-and-media/) | 娱乐和媒体服务 | - |
+| [日历管理](./projects/calendar-management/) | 日历和时间管理 | - |
+| [位置服务](./projects/location-services/) | 位置服务和地理信息 | - |
+| [客户数据平台](./projects/customer-data-platforms/) | 客户数据平台 | - |
+| [安全](./projects/security/) | 安全和隐私保护 | - |
+| [监控](./projects/monitoring/) | 监控和日志分析 | - |
+| [虚拟化](./projects/virtualization/) | 虚拟化和容器技术 | - |
+| [云存储](./projects/cloud-storage/) | 云存储服务 | - |
 
 有关所有类别及其描述的完整列表，请参阅[分类](./projects/categories.md)。
 
