@@ -26,7 +26,7 @@
 | [官方服务器](./projects/official-servers/) | 官方服务器和API | - |
 | [研究与数据](./projects/research-and-data/) | 研究和数据分析工具 | - |
 | [云平台](./projects/cloud-platforms/) | 云平台和服务 | - |
-| [浏览器自动化](./projects/browser-automation/) | 浏览器自动化工具 | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md) |
+| [浏览器自动化](./projects/browser-automation/) | 浏览器自动化工具 | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md), [Firecrawl MCP Server](./projects/browser-automation/firecrawl-mcp-server.md) |
 | [数据库](./projects/databases/) | 数据库和存储解决方案 | - |
 | [AI聊天机器人](./projects/ai-chatbot/) | AI聊天机器人和对话系统 | [MCP Sequential Thinking](./projects/ai-chatbot/mcp-sequential-thinking.md) |
 | [文件系统](./projects/file-systems/) | 文件系统和存储管理 | - |

@@ -26,7 +26,7 @@ This project aims to collect and index MCP services or applications compatible w
 | [Official Servers](./projects/official-servers/) | Official servers and APIs | - |
 | [Research And Data](./projects/research-and-data/) | Research and data analysis tools | - |
 | [Cloud Platforms](./projects/cloud-platforms/) | Cloud platforms and services | - |
-| [Browser Automation](./projects/browser-automation/) | Browser automation tools | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md) |
+| [Browser Automation](./projects/browser-automation/) | Browser automation tools | [MCP Fetch Server](./projects/browser-automation/mcp-fetch-server.md), [Firecrawl MCP Server](./projects/browser-automation/firecrawl-mcp-server.md) |
 | [Databases](./projects/databases/) | Database and storage solutions | - |
 | [AI Chatbot](./projects/ai-chatbot/) | AI chatbots and conversation systems | [MCP Sequential Thinking](./projects/ai-chatbot/mcp-sequential-thinking.md) |
 | [File Systems](./projects/file-systems/) | File systems and storage management | - |
